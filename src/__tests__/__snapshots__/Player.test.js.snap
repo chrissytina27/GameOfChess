@@ -1,0 +1,30 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Player renders correctly 1`] = `
+<div>
+  <div
+    className="graveyard"
+  >
+    <div
+      className="graveyard-piece"
+      onClick={[Function]}
+    />
+  </div>
+  <div
+    className="graveyard"
+  >
+    <div
+      className="graveyard-piece"
+      onClick={[Function]}
+    />
+  </div>
+  <div
+    className="graveyard"
+  >
+    <div
+      className="graveyard-piece"
+      onClick={[Function]}
+    />
+  </div>
+</div>
+`;

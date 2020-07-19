@@ -1,0 +1,30 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Table renders correctly 1`] = `
+<table>
+  <thead>
+    <tr>
+      <th>
+        White
+      </th>
+      <th>
+        Black
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td />
+      <td />
+    </tr>
+    <tr>
+      <td />
+      <td />
+    </tr>
+    <tr>
+      <td />
+      <td />
+    </tr>
+  </tbody>
+</table>
+`;

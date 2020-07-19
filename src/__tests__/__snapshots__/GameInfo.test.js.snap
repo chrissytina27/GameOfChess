@@ -1,0 +1,102 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`GameInfo renders correctly 1`] = `
+<div
+  className="nav-wrapper box2"
+>
+  <div
+    className="nav1"
+  >
+    <div
+      className="icon"
+    >
+      <img
+        alt="White Player Logo"
+        className="player-icon1"
+        src={Object {}}
+      />
+    </div>
+  </div>
+  <div
+    className="nav2"
+  >
+    <span
+      className="dot"
+    />
+  </div>
+  <div
+    className="nav3"
+  >
+    <div
+      className="check"
+    >
+      White , please select a piece from the graveyard to replace your pawn.
+    </div>
+    <div
+      className="check"
+    >
+      
+    </div>
+    <div
+      className="check"
+    >
+      
+    </div>
+    <div
+      className="check"
+    >
+      
+    </div>
+    <div
+      className="table-box"
+    >
+      <table>
+        <thead>
+          <tr>
+            <th>
+              White
+            </th>
+            <th>
+              Black
+            </th>
+          </tr>
+        </thead>
+        <tbody />
+      </table>
+    </div>
+  </div>
+  <div
+    className="nav6"
+  >
+    <div
+      className="icon-dot"
+    >
+      <img
+        alt="Black Player Logo"
+        className="player-icon2"
+        src={Object {}}
+      />
+    </div>
+  </div>
+  <div
+    className="nav7"
+  >
+     
+    <span />
+  </div>
+  <div
+    className="nav8"
+  >
+    <button
+      onClick={[MockFunction]}
+    >
+      End Game
+    </button>
+    <button
+      onClick={[MockFunction]}
+    >
+      Reset Game
+    </button>
+  </div>
+</div>
+`;

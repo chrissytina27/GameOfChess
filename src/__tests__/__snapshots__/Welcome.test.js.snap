@@ -1,0 +1,55 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+<div
+  className="welcome"
+  data-testid="welcome"
+>
+  <header
+    className="title"
+  >
+    <h1>
+      The Game of Chess
+    </h1>
+  </header>
+  <div
+    className="container"
+  >
+    <form
+      name="playerNames"
+      onSubmit={[Function]}
+    >
+      <label
+        htmlFor="player1"
+      >
+        Player 1: 
+      </label>
+      <input
+        id="player1"
+        name="player1"
+        placeholder="Player 1's Name"
+        type="text"
+      />
+      <label
+        htmlFor="player2"
+      >
+        Player 2: 
+      </label>
+      <input
+        id="player2"
+        name="player2"
+        placeholder="Player 2's Name"
+        type="text"
+      />
+      <br />
+      <button
+        className="btn"
+        data-testid="startBtn"
+        type="submit"
+      >
+        Start
+      </button>
+    </form>
+  </div>
+</div>
+`;

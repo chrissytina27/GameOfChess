@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`GraveyardPiece renders correctly 1`] = `
+<div
+  className="graveyard-piece"
+  onClick={[Function]}
+  style={
+    Object {
+      "background": "url(https://upload.wikimedia.org/wikipedia/commons/9/98/Chess_bdt45.svg) no-repeat",
+    }
+  }
+/>
+`;

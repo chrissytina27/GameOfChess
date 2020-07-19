@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Square renders correctly 1`] = `
+<div
+  className="square light"
+  onDragEnd={[Function]}
+  onDragOver={[Function]}
+  onDrop={[Function]}
+>
+  <div
+    className="piece"
+    draggable={true}
+    onDragEnd={[Function]}
+    onDragStart={[Function]}
+    style={
+      Object {
+        "background": "url(https://upload.wikimedia.org/wikipedia/commons/9/98/Chess_bdt45.svg) no-repeat",
+      }
+    }
+  />
+</div>
+`;
